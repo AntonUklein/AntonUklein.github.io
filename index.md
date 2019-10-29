@@ -19,9 +19,10 @@
 
 ##### EMPLOYMENT HISTORY
 
-| **Labourer** | Malach Metal & Machining, Oak Bluff, Manitoba | May 2018 - Present |
-| * Followed work orders at paint line to ensure item integrity and movement, preparation for delivery  |
-| * Performed general organization and cleaning to follow established safety regulation  |
+**Labourer** | Malach Metal & Machining, Oak Bluff, Manitoba | May 2018 - Present |
+
+* Followed work orders at paint line to ensure item integrity and movement, preparation for delivery  
+* Performed general organization and cleaning to follow established safety regulation  
 
 **Independent Games Developer / Translator** | Moon Moon Games *(as of April 2017)*, Winnipeg, Manitoba | 2012 — Present  
 
