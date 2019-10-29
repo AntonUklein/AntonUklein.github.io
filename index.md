@@ -7,6 +7,7 @@
 ----
 
 ##### QUALIFICATION HIGHLIGHTS
+
 * Strong analytical and prioritizing skills  
 * Advanced mathematics and numeracy skills  
 * Comfortable working both independently and in teams  
@@ -17,10 +18,10 @@
 * Fluent in English, Russian  
 
 ##### EMPLOYMENT HISTORY
-**Labourer** | Malach Metal & Machining, Oak Bluff, Manitoba | May 2018 - Present  
 
-* Followed work orders at paint line to ensure item integrity and movement, preparation for delivery   
-* Performed general organization and cleaning to follow established safety regulation
+| **Labourer** | Malach Metal & Machining, Oak Bluff, Manitoba | May 2018 - Present |
+| * Followed work orders at paint line to ensure item integrity and movement, preparation for delivery |
+| * Performed general organization and cleaning to follow established safety regulation |
 
 **Independent Games Developer / Translator** | Moon Moon Games *(as of April 2017)*, Winnipeg, Manitoba | 2012 — Present  
 
@@ -46,4 +47,5 @@
 * Reviewed and prepared requests, communicated on project status
 
 ##### EDUCATION  
+
 **B.Sc. (Computer Science Major)** | University of Manitoba | 2013 — 2017, 2019 - Present  
