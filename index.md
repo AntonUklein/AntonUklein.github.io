@@ -27,14 +27,15 @@
 **Independent Games Developer / Translator** | Moon Moon Games *(as of April 2017)*, Winnipeg, Manitoba | 2012 — Present  
 
 * Designed, developed and implemented game concepts as workable prototypes, ensuring stability  
-* Released games for various gamejams: Combat Hell, Captain Stargo, A Bit of A Little Dinghy  
+* Released games for various gamejams: [Combat Hell](https://moonmoongames.itch.io/combat-hell), [Captain Stargo](https://moonmoongames.itch.io/captain-stargo), [A Bit of A Little Dinghy](https://moonmoongames.itch.io/a-bit-of-a-little-dinghy)  
 * Translated and verified complete scripts to English, entered data as an implementable translation  
-* Games translated: Mystery Castle: The Mirror's Secret, Witchcraft: Pandora’s Box  
+* Games translated: [Mystery Castle: The Mirror's Secret](https://store.steampowered.com/app/428250/Mystery_Castle_The_Mirrors_Secret/), [Witchcraft: Pandora’s Box](https://www.bigfishgames.com/games/18139/witchcraft-pandoras-box/)  
 
 **Financial Data Entry Operator** *(seasonal work, client – Fineline Solutions)* | Randstad Canada, Winnipeg, Manitoba | Nov 2017 — Jan 2018  
 
 * Extracted incoming documents from mail, prepared for data capture upon arrival  
-* Input and verified data in computerized databases * Verified others’ work to ensure quality and integrity of financial data  
+* Input and verified data in computerized databases  
+* Verified others’ work to ensure quality and integrity of financial data  
 
 **BRT Operator** *(seasonal work)* | Lifetouch Canada, Winnipeg, Manitoba | Aug 2017 — Sep 2017  
 
