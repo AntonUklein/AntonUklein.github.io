@@ -1,8 +1,8 @@
 # antonuklein.github.io
 
 ### Anton Uklein
-535 Sly Drive | Phone: (204)781-1264 | Winnipeg, Manitoba R2V 2H3
-@AntonUklein | anton@moonmoongames.com
+535 Sly Drive | Phone: (204)781-1264 | Winnipeg, Manitoba R2V 2H3  
+[@AntonUklein](https://twitter.com/AntonUklein) | <anton@moonmoongames.com>
 
 ----
 
