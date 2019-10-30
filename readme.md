@@ -11,8 +11,8 @@ Please use your search function to quickly find any specific topic you may be se
 * Target Audience
 * Prerequisites Before Starting
 * Instructions
- + How to setup a Github Pages page
- + Additional Resources
+    + How to setup a Github Pages page
+    + Additional Resources
 * Software Requirements
 * FAQ
 * License
