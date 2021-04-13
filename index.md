@@ -1,6 +1,8 @@
 ### Anton Uklein
-535 Sly Drive | Phone: (204)781-1264 | Winnipeg, Manitoba R2V 2H3  
+535 Sly Drive | Phone: (204)XXX-XXXX | Winnipeg, Manitoba R2V 2H3  
 [@AntonUklein](https://twitter.com/AntonUklein) | <anton@moonmoongames.com>
+
+Note that the information presented within is outdated and is no longer accurate.
 
 ----
 
